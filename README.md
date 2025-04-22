@@ -1,4 +1,4 @@
-# Hi there, I'm Ayesha 👋
+# Hi there, I'm Ayesha Faisal 👋
 
 🎯 **Aspiring Frontend Developer** | 💻 Passionate about clean code and beautiful UI  
 🌱 Currently sharpening my skills in **TypeScript**, **Node.js**, and **Python**  
