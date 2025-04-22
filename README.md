@@ -23,8 +23,8 @@
 - **Unit Converter** – A simple but useful tool made for Coding Nights  
 
 ## 📊 GitHub Stats
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha764581&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha764581&layout=compact&theme=radical)
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha-offical&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-offical&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-siddiqua25/)
