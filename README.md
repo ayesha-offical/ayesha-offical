@@ -26,9 +26,6 @@
 ![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha-offical&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-offical&layout=compact&theme=radical)
 
-## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ayesha-offical/ayesha-offical/blob/main/New%20Resume%200%20(1).pdf)
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-siddiqua25/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ayesha764581)
