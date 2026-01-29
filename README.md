@@ -1,4 +1,4 @@
-# 🤖 Ayesha Faisal | AI Developer & Full-Stack Engineer
+# Ayesha Faisal | AI Developer & Full-Stack Engineer
 ### *Founder of Nuralyx | Building Intelligent Systems at the Intersection of Deen & Tech*
 
 ---
@@ -6,7 +6,7 @@
 ## 🌟 My Journey
 I am an **AI Developer** and **Web Developer** who thrives on the challenge of balancing rigorous academic discipline with cutting-edge technical innovation. My background is unique: I bring the dedication of an Alima and the precision of an engineer to everything I build.
 
-> "I believe you don't have to choose between Deen and Dunya—you can excel at both."
+> "I believe you don't have to choose between Deen and Dunya you can excel at both."
 
 * 🚀 **Founder @Nuralyx:** Leading the development of an AI automation tool for freelancers (Startup Challenge Winner).
 * 💼 **Web Development Intern @AveronX:** Designing and implementing high-performance web applications.
@@ -49,7 +49,6 @@ I’m always open to collaborating on impactful projects that empower people thr
 * **LinkedIn:** [ayesha-faisal25](https://www.linkedin.com/in/ayesha-faisal25)
 * **X (Twitter):** [@1ayeshafaisal](https://x.com/1ayeshafaisal)
 * **Email:** [ayeshasiddiqua9507@gmail.com](mailto:ayeshasiddiqua9507@gmail.com)
-* **Portfolio:** [nuralyxai.com](http://www.nuralyxai.com)
 
 ---
 <p align="center">
