@@ -1,5 +1,5 @@
 # Ayesha Faisal | AI Developer & Full-Stack Engineer
-### *Co-Founder of Nuralyx | Building Intelligent Systems at the Intersection of Deen & Tech*
+### *Co-Founder of Nuralyxai | Building Intelligent Systems at the Intersection of Deen & Tech*
 
 ---
 
