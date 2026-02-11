@@ -35,13 +35,6 @@ I am an **AI Developer** and **Web Developer** who thrives on the challenge of b
 
 ---
 
-## 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-offical&show_icons=true&theme=radical" alt="Ayesha's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-offical&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
 
 ## 📫 Let's Connect
 I’m always open to collaborating on impactful projects that empower people through technology.
