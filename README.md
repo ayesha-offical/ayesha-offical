@@ -10,8 +10,8 @@ I am an **AI Developer** and **Web Developer** who thrives on the challenge of b
 
 * 🚀 **Co-Founder @Nuralyxai:** Leading the development of an AI automation tool for freelancers (Startup Challenge Winner).
 * 💼 **Web Development Intern @AveronX:** Designing and implementing high-performance web applications.
-* 📜 **Academic Excellence:** Recently completed my **Alima degree** (Khatme Bukhari) at Madrasah Zainab Lil Banat.
-* 📈 **Community:** Connecting with a growing professional network of **1,700+ followers** on LinkedIn.
+* 📜 **Academic Excellence:** Recently completed my **darasat course** (Khatme Bukhari) at Madrasah Zainab Lil Banat.
+* 📈 **Community:** Connecting with a growing professional network of **2,000+ followers** on LinkedIn.
 
 ---
 
