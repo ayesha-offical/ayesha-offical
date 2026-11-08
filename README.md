@@ -15,7 +15,7 @@ Karachi, Pakistan · coding since **16**
 ---
 
 ## About
-I'm the **Co-founder, CPO and GTM lead of [NuralyxAI](https://www.nuralyxai.com)**, an agentic AI assistant that handles a freelancer's **email, proposals, follow-ups and calendar in one conversation**, with **nothing sent without approval**. The backend is deployed and the beta is live. I lead product and go-to-market, and I work with my co-founders on the AI side.
+I'm the **Co-founder, CPO and GTM lead of [Nuralyxai](https://www.nuralyxai.com)**, an agentic AI assistant that handles a freelancer's **email, proposals, follow-ups and calendar in one conversation**, with **nothing sent without approval**. The backend is deployed and the beta is live. I lead product and go-to-market, and I work with my co-founders on the AI side.
 
 I like the whole chain: building the system, then making sure real people use it.
 
@@ -50,7 +50,7 @@ I like the whole chain: building the system, then making sure real people use it
 ## Experience
 | Role | Where | When |
 |---|---|---|
-| **Co-founder, CPO, GTM Lead** | NuralyxAI | Aug 2025 to now |
+| **Co-founder, CPO, GTM Lead** | Nuralyxai | Aug 2025 to now |
 | Founder (building) | Stealth AI startup | May 2026 to now |
 | Founding Member, Advisory Board | Boardy | Jun 2026 to now |
 | Venture Researcher | SH1P | Apr to May 2026 |
