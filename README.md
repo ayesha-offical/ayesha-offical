@@ -53,4 +53,25 @@ All of it organic: **no ads, no agency**, just consistent public building.
 ## Highlights
 - **Won the Governor Sindh Startup Challenge** with my team (2025)
 - **Antler Korea:** a partner found my GitHub and reached out (April 2026)
-- **Founding Member, Boardy Pro Advisory
+- **Founding Member, Boardy Pro Advisory Board** (2026)
+- **Founding Member, TrueNorth** (India) and **Member, The White Rose Society** (UK)
+- **YC Startup School** (self-paced) and the **Governor Sindh Initiative** GenAI track (GIAIC)
+
+## Experience
+| Role | Where | When |
+|---|---|---|
+| **Co-founder, CPO, GTM Lead** | NuralyxAI | Aug 2025 to now |
+| Founder (building) | Stealth AI startup | May 2026 to now |
+| Founding Member, Advisory Board | Boardy | Jun 2026 to now |
+| Venture Researcher | SH1P | Apr to May 2026 |
+| UGC | Prettiflow | Apr to May 2026 |
+| Web Development Intern | AveronX | Oct 2025 to May 2026 |
+| Teacher of Science | Zainab Academy | May to Oct 2025 |
+
+## Let's talk
+I'm open to **collaborations, founder conversations and growth or AI roles**.
+Email: **ayeshasiddiqua9507@gmail.com**
+
+<sub>Outside code: I completed the Darasat course (Khatme Bukhari) at Zainab Madarsa lil Banat.</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=90&section=footer)
